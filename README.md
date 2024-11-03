@@ -43,7 +43,7 @@ python3 main.py
 
 ### Windows Users 
 
-1. Download the packaged version from [here](https://github.com/PumpExpert/All-in-One-Solana-Bot/releases/download/V5.3/SolAiBot_Win.zip). 
+1. Download the packaged version from [here](https://github.com/PumpExpert/All-in-One-Solana-Bot/releases/download/V5.4/SolAiBot_win.zip). 
 2. Extract the ZIP file. 
 3. Double-click on the `SolAiBot.exe` application to start the bot. 
 
@@ -76,5 +76,5 @@ Here are some screenshots of Solana Ultimate Ai Trade Bot in action:
 
 ## Support 
 
-For any queries or support, click the bot icon at the bottom left of the screen for real-time AI assistance. Alternatively, you can contact us on our [Telegram](https://t.me/Web3BotSupport). 
+For any queries or support, click the bot icon at the bottom left of the screen for real-time AI assistance. Alternatively, you can contact us on our [Telegram](https://t.me/SolAiBotSupport). 
 
