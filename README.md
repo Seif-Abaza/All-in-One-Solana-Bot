@@ -76,5 +76,5 @@ Here are some screenshots of Solana Ultimate Ai Trade Bot in action:
 
 ## Support 
 
-For any queries or support, click the bot icon at the bottom left of the screen for real-time AI assistance. Alternatively, you can contact us on our [Telegram](https://t.me/pancakeswapprediction). 
+For any queries or support, click the bot icon at the bottom left of the screen for real-time AI assistance. Alternatively, you can contact us on our [Telegram](https://t.me/Web3BotSupport). 
 
