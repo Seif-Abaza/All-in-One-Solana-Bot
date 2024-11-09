@@ -5,7 +5,6 @@
 <img src=https://img.shields.io/github/issues-pr/PumpExpert/All-in-One-Solana-Bot?style=for-the-badge&logo=appveyor&color=informational />
 </p>
 
-
 # Solana Ultimate Ai Trade Bot 
 
 **Solana Ultimate Ai Trade Bot** is the ultimate AI-driven trading bot designed to revolutionize meme token trading on the Solana blockchain. It offers a plethora of features to ensure you make profitable trades effortlessly. With Solana Ultimate Ai Trade Bot, you can also create and manage tokens on the Solana network. The bot is powered by GPT-4.0, providing real-time AI support for all your needs. 
