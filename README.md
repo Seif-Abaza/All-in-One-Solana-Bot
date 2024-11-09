@@ -16,13 +16,13 @@
 - **Token Creation and Management**: Create and manage your own tokens on the Solana network. 
 - **GPT-4.0 Support**: Get real-time AI support for setting up and configuring the bot. Click the bot icon at the bottom left of the screen for live assistance. 
 - **Cross-Platform**: Compatible with both Mac and Windows operating systems. 
-- **Live Support**: If you need to speak with a developer, you can message us 24/7 on our Telegram at [Sol Ai Bot Full Support](https://t.me/SolAiBotSupport). 
+- **Live Support**: If you need to speak with a developer, you can message us 24/7 on our Telegram at [Sol Ai Bot Full Support](https://t.me/SolBotSupport). 
 
 ## Why Solana Ultimate Ai Trade Bot? 
 
 Solana Ultimate Ai Trade Bot is designed for those who truly want to maximize their profits in the crypto market. Whether you are a novice or an experienced trader, this bot offers unparalleled features and support to help you succeed. Here's why you should choose Solana Ultimate Ai Trade Bot: 
 
-- **Easy to Use**: The bot is ready to use very easily thanks to its user-friendly interface without requiring any code knowledge. If you find it difficult to do this, write to us on [Telegram](https://t.me/SolAiBotSupport) and we will help you. 
+- **Easy to Use**: The bot is ready to use very easily thanks to its user-friendly interface without requiring any code knowledge. If you find it difficult to do this, write to us on [Telegram](https://t.me/SolBotSupport) and we will help you. 
 - **First Month Free**: Try the bot for free for the first month. 
 - **Affordable Premium Access**: After the first month, enjoy premium access at just $199 per month for the first three months. Subsequent quarterly renewals will see a $50 increase per month. 
 - **Exceptional Returns**: The bot's high profitability ensures that the subscription costs are negligible compared to the returns you can achieve. 
@@ -75,5 +75,6 @@ Here are some screenshots of Solana Ultimate Ai Trade Bot in action:
 
 ## Support 
 
-For any queries or support, click the bot icon at the bottom left of the screen for real-time AI assistance. Alternatively, you can contact us on our [Telegram](https://t.me/SolAiBotSupport). 
+For any queries or support, click the bot icon at the bottom left of the screen for real-time AI assistance. Alternatively, you can contact us on our [Telegram](https://t.me/SolBotSupport). 
+
 
